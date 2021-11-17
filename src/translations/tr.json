@@ -1,0 +1,64 @@
+z{
+  "status": {
+    "cleaning": "Temizleniyor",
+    "auto": "Otomatik Temizleme",
+    "spot": "Noktasal Temizleme",
+    "edge": "Sınır Temizleme",
+    "single_room": "Tekli oda Temizleme",
+    "paused": "Duraklatıldı",
+    "idle": "Beklemede",
+    "stop": "Durduruldu",
+    "charging": "Şarj Ediliyor",
+    "returning home": "Şarj İstasyonuna Dönülüyor",
+    "returning": "Şarj İstasyonuna Dönülüyor",
+    "docked": "Şarj İstasyonunda",
+    "unknown": "Bilinmiyor",
+    "offline": "Çevrimdışı",
+    "error": "Hata"
+  },
+  "source": {
+    "gentle": "Nazik",
+    "silent": "Sessiz",
+    "standard": "Standart",
+    "medium": "Orta",
+    "turbo": "Turbo",
+    "normal": "Normal",
+    "high": "Yüksek",
+    "strong": "Güçlü"
+  },
+  "common": {
+    "name": "Süpürge Kartı",
+    "description": "Süpürge kartı, robot süpürgenizi kontrol etmenize olanak tanır.",
+    "start": "Temizle",
+    "continue": "Devam Et",
+    "pause": "Duraklat",
+    "stop": "Durdur",
+    "return_to_base": "Şarj İstasyonuna Gönder",
+    "locate": "Konumlandır",
+    "not_available": "Süpürgeye Erişilemiyor"
+  },
+  "error": {
+    "missing_entity": "Entity'nin kişiselleştirilmesi gerekiyor!"
+  },
+  "warning": {
+    "actions_array": "UYARI: 'Aksiyonlar', var olan butonların işlevlerini üzerine yazmak için kullanılır. Eğer isteğiniz yeni butonlar eklemek ise, lütfen bunun yerine 'Kısayollar' seçeneğini kullanın."
+  },
+  "editor": {
+    "entity": "Entity (Gerekli)",
+    "map": "Harita Kamerası (İsteğe Bağlı)",
+    "image": "Resim (İsteğe Bağlı)",
+    "compact_view": "Minimal Görünüm",
+    "compact_view_aria_label_on": "Minimal Görünümü Etkinleştir",
+    "compact_view_aria_label_off": "Minimal Görünümü Devre Dışı Bırak",
+    "show_name": "İsmi Göster",
+    "show_name_aria_label_on": "İsmi Göster",
+    "show_name_aria_label_off": "İsmi Gizle",
+    "show_status": "Mevcut Durumu Göster",
+    "show_status_aria_label_on": "Mevcut Durumu Göster",
+    "show_status_aria_label_off": "Mevcut Durumu Gizle",
+    "show_toolbar": "Araç Kutusunu Göster",
+    "show_toolbar_aria_label_on": "Araç Kutusunu Göster",
+    "show_toolbar_aria_label_off": "Araç Kutusunu Gizle",
+    "code_only_note": "NOT: Aksiyonlar ve istatistik gösterimi ayarları yalnızca 'Kod Editörü' kullanılarak yapılabilir."
+  }
+}
